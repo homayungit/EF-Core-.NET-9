@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PublisherConsole
+/PublisherConsole/bin/Debug/net9.0
+/PublisherConsole/obj
+/PublisherData/bin/Debug/net9.0
+/PublisherData/obj
+/PublisherDomain/bin/Debug/net9.0
+/PublisherDomain/obj
